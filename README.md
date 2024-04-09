@@ -5,11 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuraj2918&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuraj2918" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshuraj2918" alt="himanshuraj2918" /></a> </p>
-
 - 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **i**
 
 - ⚡ Fun fact **I think I am a skill enhancer**
 
