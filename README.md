@@ -21,7 +21,10 @@ const himanshuraj = {
         backend: ["Node.js", "Express"],
         database: ["MongoDB", "Firebase"],
         tools: ["Git", "VS Code", "Docker"]
-    }
+    },
+   contact:{
+      emailId: "himanshuraj2918@gmail.com",
+      phone: 7041514619
 };
 ```
 
