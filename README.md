@@ -8,10 +8,22 @@
 <h1 align="center">Hi 👋, I'm Himanshuraj Tiwari</h1>
 <h3 align="center" style="color: #0e75b6;">A passionate developer from India 🚀</h3>
 
-- 🌱 I’m currently learning **Web Developer**
-
-- ⚡ Fun fact **I think I am a skill enhancer**
-
+```javascript
+const himanshuraj = {
+    pronouns: "He" | "Him",
+    location: "India",
+    role: "Full Stack Developer",
+    currentFocus: "Web Development",
+    funFact: "I turn coffee into code ☕️",
+    hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
+    techStack: {
+        frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS"],
+        backend: ["Node.js", "Express"],
+        database: ["MongoDB", "Firebase"],
+        tools: ["Git", "VS Code", "Docker"]
+    }
+};
+```
 
 <div >
   <a href="https://linkedin.com/in/himanshuraj-tiwari">
